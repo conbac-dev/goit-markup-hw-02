@@ -1,0 +1,119 @@
+/* CSS Baslangic */
+/* Yazi Tipleri */
+h1 {
+  font-family: "Roboto", "Raleway" sans-serif;
+  font-weight: bold;
+  font-size: 56px;
+  letter-spacing: 2%;
+  line-height: 60px;
+}
+h2 {
+  font-family: "Roboto", "Raleway" sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 2%;
+}
+h3 {
+  font-family: "Roboto", "Raleway" sans-serif;
+  font-weight: Medium;
+  font-size: 36px;
+  letter-spacing: 2%;
+}
+body {
+  font-family: "Roboto", "Raleway" sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color: #2e2f42;
+}
+p {
+  color: #434455;
+  font-family: "Roboto", "Raleway" sans-serif;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 4%;
+}
+/* Yazi Tipleri */
+/* Navigasyon */
+.headerr {
+  background-color: #e7e9fc;
+}
+.bilgilendirme1 {
+  color: #2e2f42;
+}
+.bilgilendirme1:hover {
+  color: #404bbf;
+}
+.bilgilendirme2 {
+  color: #2e2f42;
+}
+.bilgilendirme2:hover {
+  color: #404bbf;
+}
+.bilgilendirme3 {
+  color: #2e2f42;
+}
+.bilgilendirme3:hover {
+  color: #404bbf;
+}
+.bilgilendirme4 {
+  color: #434455;
+}
+.bilgilendirme4:hover {
+  color: #404bbf;
+}
+.bilgilendirme5 {
+  color: #434455;
+}
+.bilgilendirme5:hover {
+  color: #404bbf;
+}
+/* Navigasyon */
+/* Section1 */
+#buyukbaslik {
+  color: #ffffff;
+}
+.giris {
+  background-color: #2e2f42;
+}
+.order {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  padding-inline: 32px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  cursor: pointer;
+}
+.order:hover {
+  background-color: #404bbf;
+}
+/* Section1 */
+/* Section2 */
+.ourteam {
+  background-color: #f4f4fd;
+  /* Section2 */
+  /* Section3 */
+}
+.ourportfolio li {
+  background-color: #e7e9fc;
+}
+/* Section3 */
+/* Section4 */
+.footer {
+  background-color: #2e2f42;
+}
+/* Section4 */
+/* Footer */
+.logosol {
+  color: #4d5ae5;
+}
+.logosag {
+  color: #ffffff;
+}
+.logosag2 {
+  color: #2e2f42;
+}
+.bitisyazi {
+  color: #f4f4fd;
+}
+/* Footer */
