@@ -26,6 +26,13 @@ body {
   letter-spacing: 2%;
   color: #2e2f42;
 }
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-decoration: none;
+}
 /* Yazi Tipleri */
 /* Navigasyon */
 .headerr {
@@ -68,11 +75,13 @@ body {
 }
 .giris {
   background-color: #2e2f42;
+  height: 600px;
 }
 .order {
   color: #ffffff;
   background-color: #4d5ae5;
   border-radius: 4%;
+  border: none;
   cursor: pointer;
 }
 .order:hover {
@@ -92,6 +101,7 @@ body {
 /* Section4 */
 .footer {
   background-color: #2e2f42;
+  height: 312px;
 }
 /* Section4 */
 /* Footer */
